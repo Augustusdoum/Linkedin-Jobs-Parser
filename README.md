@@ -2,6 +2,8 @@
 
 This bit of code lets you parse through all of Linkedin Job Offers and have the results sent to you by mail (through Gmail API) with a bit of job titles keywords filtering to increase profile fitting accuracy. 
 
+I wrote it to find any new job posted in the sutainable developpment area.
+
 To use it :
 
 In the LinkedinJobsParser.py file :
